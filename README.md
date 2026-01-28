@@ -1,28 +1,21 @@
-# AI-powered API Test Case Generator
+# AI-enhanced Data Analysis Tool (C++)
 
-This project demonstrates how AI can be used to automatically generate API test cases
-based on API documentation or endpoint descriptions.
+This project demonstrates how AI-generated insights and UI text
+can be integrated into a C++ data analysis application.
 
 ## Features
-- AI-generated positive and negative API test cases
-- Prompt engineering example for better AI output
-- Simple Python implementation (no ML training required)
+- Simple numerical data analysis
+- AI-generated insights (simulated)
+- AI-enhanced user interface messages
 
 ## Technologies
-- Python 3
-- OpenAI-style prompt usage (can be adapted to any LLM)
+- C++
+- Standard Library (STL)
 
-## Example Use Case
-Given an API endpoint description, the system generates:
-- Valid request test cases
-- Edge cases
-- Error and validation scenarios
+## Example
+The program analyzes numeric data and prints AI-style insights
+such as trends, averages, and recommendations.
 
-## How It Works
-1. User provides API description
-2. Prompt is constructed using prompt engineering
-3. AI generates structured test cases
-4. Output is printed or saved
-
-## Note
-This project focuses on AI usage, not machine learning models.
+## Purpose
+To show how AI can improve user experience and analysis
+without implementing machine learning.
